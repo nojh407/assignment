@@ -1,4 +1,4 @@
-
+print('sw assignment')
 class PB:
     def __init__(self):
       self.names = ('kim', 'lee', 'pack')
